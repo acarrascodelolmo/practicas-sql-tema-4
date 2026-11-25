@@ -1,4 +1,7 @@
 # Tema 4 · Prácticas de SQL
+
+[Resumen de uso de IA · SQL-T4-4827](uso-ia.txt)
+
 Scripts para SQLite. Se pueden ejecutar desde la pestaña «Ejecutar SQL» de DB Browser for SQLite.
 
 - **Práctica 1.** Crea una base vacía, abre `practica_1.sql` y ejecútalo una vez. Para comprobar las cinco altas, ejecuta `SELECT * FROM ParaiZooHuesped;`.
