@@ -1,0 +1,7 @@
+CODIGO: SQL-T4-4827
+MENSAJES_MIOS: 23, incluido este mensaje.
+PRIMER_MENSAJE: «Tengo que hacer unas practicas de SQL» «Te adjunto los enunciados y lo vamos haciendo»
+ULTIMO_MENSAJE: «orden creo yo» «Vale si, ahora actualizo los archivos de github con las correcciones gracias»
+USO: Pedí ayuda para revisar mis prácticas paso a paso. La IA leyó mis consultas de GitHub, me indicó qué ejecutar, explicó los filtros y comprobó resultados con la base adjunta. También escribió consultas auxiliares de verificación. Los ejercicios ya estaban en mi repositorio.
+ERRORES: Yo detecté un error al sustituir la primera línea por COUNT(*). La causa quedó sin confirmar. Dije haber corregido otros errores sin especificarlos.
+CALIDAD/PROACTIVIDAD/INDEPENDENCIA: Calidad 4/5: contrasté resultados. Proactividad 4/5: avisé del error y pregunté por la franja nocturna. Independencia 3/5: ejecuté las consultas en VS Code con indicaciones de la IA ejercicio por ejercicio.
